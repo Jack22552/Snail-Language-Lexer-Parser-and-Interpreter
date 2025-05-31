@@ -1,1 +1,1 @@
-
+A Java program that reads from standard input (System.in) and prints to standard output (System.out). The input used was source code for a snail program. The program either indicates that there is an error in the input (e.g., a malformed string) or emits an SL-Lex-formatted serialized list of snail tokens. The program's main lexer component is constructed by a lexical analyzer generator.
