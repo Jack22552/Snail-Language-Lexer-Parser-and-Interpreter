@@ -1,1 +1,2 @@
-
+A python program that reads SL-Lex format (as described the language specification) from standard input and produces an SL-AST-formated abstract syntax tree.
+The program either indicates that there is an error in the snail program described by the SL-Lex data (e.g., a parse error in the snail file) or emit a SL-AST-formatted serialized snail abstract syntax tree. The program's main parser component is constructed by a parser generator. 
