@@ -1,1 +1,1 @@
-A Reason program that takes a single command-line argument (e.g., file.sl-ast). That argument will is an SL-AST-formatted snail abstract syntax tree (as described in the snail specification). The program executes/interprets the snail program described by this input.
+A Reason program that takes a single command-line argument (e.g., file.sl-ast). That argument is an SL-AST-formatted snail abstract syntax tree (as described in the snail specification). The program executes/interprets the snail program described by this input.
